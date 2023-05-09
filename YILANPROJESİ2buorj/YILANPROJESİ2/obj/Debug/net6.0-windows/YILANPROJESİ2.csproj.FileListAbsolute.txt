@@ -1,0 +1,17 @@
+D:\YILANPROJESİ2\YILANPROJESİ2\bin\Debug\net6.0-windows\YILANPROJESİ2.exe
+D:\YILANPROJESİ2\YILANPROJESİ2\bin\Debug\net6.0-windows\YILANPROJESİ2.deps.json
+D:\YILANPROJESİ2\YILANPROJESİ2\bin\Debug\net6.0-windows\YILANPROJESİ2.runtimeconfig.json
+D:\YILANPROJESİ2\YILANPROJESİ2\bin\Debug\net6.0-windows\YILANPROJESİ2.dll
+D:\YILANPROJESİ2\YILANPROJESİ2\bin\Debug\net6.0-windows\YILANPROJESİ2.pdb
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.csproj.AssemblyReference.cache
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.Form1.resources
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.csproj.GenerateResource.cache
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.AssemblyInfoInputs.cache
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.AssemblyInfo.cs
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.csproj.CoreCompileInputs.cache
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.dll
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\refint\YILANPROJESİ2.dll
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.pdb
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\YILANPROJESİ2.genruntimeconfig.cache
+D:\YILANPROJESİ2\YILANPROJESİ2\obj\Debug\net6.0-windows\ref\YILANPROJESİ2.dll
